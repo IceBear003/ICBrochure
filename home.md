@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-01T12:25:51.331Z
+date: 2024-09-01T12:27:07.536Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -60,4 +60,4 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 
 ## 其他
 本平台基于Wiki.js引擎搭建，服务器支持由物语云计算提供，域名解析支持由阿里云提供，Wiki.js主题由Kaspa WIKI开源项目提供，白熊对其进行了一些改进。采用的图标源来自FontAwesome 5。
-本平台在Github平台建立了增量式备份，可见ICBrochure（完善中）。
+本平台在Github平台建立了增量式备份，可见<a href="https://github.com/IceBear003/ICBrochure">ICBrochure</a>（完善中）。

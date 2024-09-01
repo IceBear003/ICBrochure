@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-01T12:21:51.760Z
+date: 2024-09-01T12:22:20.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -59,5 +59,5 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 //TODO
 
 ## 其他
-本平台基于Wiki.js引擎搭建，由物语云计算提供服务器支持。
+本平台基于Wiki.js引擎搭建，由物语云计算提供服务器支持，阿里云提供域名解析支持。
 Wiki.js主题由Kaspa WIKI开源项目提供，白熊对其进行了一些改进。

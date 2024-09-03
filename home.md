@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T13:31:30.460Z
+date: 2024-09-03T15:31:19.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -52,14 +52,16 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > - 喜欢设计，画画，DIY，玩游戏和撸猫撸狗撸鸭子。
 
 
-> <p> </p>
+> <img src="https://s2.loli.net/2024/09/03/zxBRC9dnIPTswZh.jpg" alt="洺音" style="position: absolute; top: 0; right: 0px; width: 205px; height: 205px;">
+> <br>
 > 
 > ### 洺音 Gaiman_Paynes
 > 
-> **QQ** 469480405 &emsp;&emsp;&emsp;**微信** \_ming_yin_
-> 
+> <i class="fab fa-qq fa-sm"></i> **QQ** 469480405 &emsp;&emsp;&emsp; <i class="fab fa-weixin fa-sm"></i> **微信** \_ming_yin_
+> <br>
 > - 懂一点数字IC，会画一点PCB的彩笔。
 > - 白熊注：这只洺音的名片还未完善
+
 
 //TODO
 ## 合作组织

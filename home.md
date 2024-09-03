@@ -2,15 +2,15 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T12:25:53.370Z
+date: 2024-09-03T12:26:48.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
 ---
 
 # 欢迎来到ICBrochure
-<div style="position: relative;">
-     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; left: 100; width: 100px; height: 100px;">
+<div>
+     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 0; width: 100px; height: 100px;">
 </div>
 
 ## 这里是？

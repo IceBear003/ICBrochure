@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T12:28:33.339Z
+date: 2024-09-03T12:33:29.215Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -10,7 +10,8 @@ dateCreated: 2024-08-21T06:28:48.439Z
 
 # 欢迎来到ICBrochure
 <div>
-     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 100px; width: 75px; height: 75px;">
+     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 330px; width: 75px; height: 75px;">
+     <img src="https://s2.loli.net/2024/09/03/C7tJsLMqmPOyo4k.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 245px; width: 75px; height: 75px;">
 </div>
 
 ## 这里是？

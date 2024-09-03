@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T12:49:06.691Z
+date: 2024-09-03T12:50:30.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -46,8 +46,8 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > 
 > ### 白熊 IceBear_003
 > 
-> <i class="fab fa-qq fa-sm"></i> **QQ** 1294243258 &emsp;&emsp;&emsp;<i class="fab fa-weixin fa-sm"></i> **微信** yds_18805168847
-> <i class="fas fa-podcast fa-sm"></i> **Bilibili** 大白熊_IceBear&emsp;<i class="fab fa-github fa-sm"></i> **Github** IceBear_003
+> <i class="fab fa-qq fa-sm"></i> **QQ** <u>1294243258</u> &emsp;&emsp;&emsp;<i class="fab fa-weixin fa-sm"></i> **微信** <u>yds_18805168847</u>
+> <i class="fas fa-podcast fa-sm"></i> **Bilibili** <u>大白熊_IceBear</u>&emsp;<i class="fab fa-github fa-sm"></i> **Github** <u>IceBear_003</u>
 > 
 > - 平台运维，在数字IC方面有一些浅薄的见解，软硬件半全栈小白。
 

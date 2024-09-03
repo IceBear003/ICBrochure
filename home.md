@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T13:00:57.342Z
+date: 2024-09-03T13:03:19.251Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -41,17 +41,15 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 
 如果您**有能力**且完全**自愿**、**无偿**支持本平台，请联系负责人。
 ## 平台负责人
-> <img src="https://s2.loli.net/2024/09/03/g7JEaowHsvymSYl.jpg" alt="白熊" style="position: absolute; top: 0; right: 0px; width: 195px; height: 195px;">
+> <img src="https://s2.loli.net/2024/09/03/g7JEaowHsvymSYl.jpg" alt="白熊" style="position: absolute; top: 0; right: 0px; width: 175px; height: 175px;">
 > <br>
 > 
 > ### 白熊 IceBear_003
 > 
 > <i class="fab fa-qq fa-sm"></i> **QQ** <u>1294243258</u> &emsp;&emsp;&emsp;<i class="fab fa-weixin fa-sm"></i> **微信** <u>yds_18805168847</u>
 > <i class="fas fa-podcast fa-sm"></i> **Bilibili** <u>大白熊_IceBear</u>&emsp;<i class="fab fa-github fa-sm"></i> **Github** <u>IceBear_003</u>
-> 
 > - 平台运维，对于数字IC有一些浅薄的见解，软硬件半栈小白。
-> &emsp;
-> &emsp;
+> 
 
 
 > <p> </p>

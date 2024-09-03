@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T13:19:38.971Z
+date: 2024-09-03T13:27:17.384Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -48,8 +48,8 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > 
 > <i class="fab fa-qq fa-sm"></i> **QQ** 1294243258 &emsp;&emsp;&emsp; <i class="fab fa-weixin fa-sm"></i> **微信** yds_18805168847
 > <i class="fas fa-podcast fa-sm"></i> **Bilibili** 大白熊_IceBear&emsp; <i class="fab fa-github fa-sm"></i> **Github** IceBear_003
-> - 平台运维，对于数字IC有一些浅薄的见解，软硬件半栈小白。
-> 
+> - 平台运维，对于数字IC有一些浅薄的见解，软硬件前后端半栈小白。
+> - 喜欢设计，画画，DIY，玩游戏和撸猫撸狗撸鸭子。
 
 
 > <p> </p>

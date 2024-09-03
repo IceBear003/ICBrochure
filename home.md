@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T13:28:33.319Z
+date: 2024-09-03T13:31:30.460Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -59,6 +59,7 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > **QQ** 469480405 &emsp;&emsp;&emsp;**微信** \_ming_yin_
 > 
 > - 懂一点数字IC，会画一点PCB的彩笔。
+> - 白熊注：这只洺音的名片还未完善
 
 //TODO
 ## 合作组织

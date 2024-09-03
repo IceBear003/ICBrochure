@@ -2,14 +2,16 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-02T03:43:34.445Z
+date: 2024-09-03T12:24:37.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
 ---
 
 # 欢迎来到ICBrochure
-
+<div style="position: relative;">
+     <img src="https://sm.ms/image/bMoke5j132DEctq" alt="Image 2" style="position: absolute; top: 0; left: 0; width: 100px; height: 100px;">
+   </div>
 ## 这里是？
 **ICBrochure**（简称ICB），一群IC（Integrated Circuit，集成电路）热爱者建立的交流平台，旨在促进相关领域技术知识的交流。ICBrochure以**开放、包容**为核心理念，欢迎任何（不限学校、不限专业）感兴趣的小伙伴访问和贡献。
 ## 我在ICBrochure可以收获什么？

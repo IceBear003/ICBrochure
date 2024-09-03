@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T17:22:57.873Z
+date: 2024-09-03T17:24:28.284Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -59,7 +59,7 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > <i class="fab fa-qq fa-sm"></i> **QQ** 469480405 &emsp;&emsp;&emsp; <i class="fab fa-weixin fa-sm"></i> **微信** \_ming_yin_
 > <br>
 > - 懂一点数字IC，会画一点PCB的彩笔。
-> - 白熊注：这只洺音的名片还未完善
+> - 喜欢搞oc，画画，是一只米努特矮脚大黑猫（纯色）。
 
 
 //TODO

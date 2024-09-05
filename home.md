@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-03T17:24:28.284Z
+date: 2024-09-05T07:13:46.530Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -10,9 +10,7 @@ dateCreated: 2024-08-21T06:28:48.439Z
 
 # 欢迎来到ICBrochure
 <div>
-     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 195px; width: 75px; height: 75px;">
-  	 <img src="https://s2.loli.net/2024/09/03/OKjLbtHPG7me32r.jpg" alt="华南理工大学微电子协会" style="position: absolute; top: 0; right: 110px; width: 75px; height: 75px;">
-     <img src="https://s2.loli.net/2024/09/03/OfmnDNJQiqHajgr.jpg" alt="华南农业大学创芯社" style="position: absolute; top: 0; right: 25px; width: 75px; height: 75px;">
+     <img src="https://s2.loli.net/2024/09/03/bMoke5j132DEctq.webp" alt="华南理工大学" style="position: absolute; top: 0; right: 20px; width: 75px; height: 75px;">
 </div>
 
 ## 这里是？
@@ -64,6 +62,10 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 
 //TODO
 ## 合作组织
+<div>
+  	 <img src="https://s2.loli.net/2024/09/03/OKjLbtHPG7me32r.jpg" alt="华南理工大学微电子协会" style="position: absolute; top: 0; right: 105px; width: 75px; height: 75px;">
+     <img src="https://s2.loli.net/2024/09/03/OfmnDNJQiqHajgr.jpg" alt="华南农业大学创芯社" style="position: absolute; top: 0; right: 20px; width: 75px; height: 75px;">
+</div>
 
 //华南理工大学微电子协会
 //华南农业大学创芯社

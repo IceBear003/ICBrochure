@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-05T17:16:08.321Z
+date: 2024-09-06T06:25:51.436Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -38,7 +38,7 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 
 如果您**有能力**且完全**自愿**、**无偿**支持本平台，请联系负责人。
 ## 平台负责人
-> <img src="https://s2.loli.net/2024/09/03/g7JEaowHsvymSYl.jpg" alt="白熊" style="position: absolute; top: 0; right: 0px; width: 205px; height: 205px;">
+> <img src="https://s2.loli.net/2024/09/03/g7JEaowHsvymSYl.jpg" alt="白熊" style="position: absolute; top: 0; right: 0px; width: 207px; height: 207px;">
 > <br>
 > 
 > ### 白熊 IceBear_003
@@ -49,7 +49,7 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > - 喜欢设计，画画，DIY，玩游戏和撸猫撸狗撸鸭子。
 
 
-> <img src="https://s2.loli.net/2024/09/03/zxBRC9dnIPTswZh.jpg" alt="洺音" style="position: absolute; top: 0; right: 0px; width: 205px; height: 205px;">
+> <img src="https://s2.loli.net/2024/09/03/zxBRC9dnIPTswZh.jpg" alt="洺音" style="position: absolute; top: 0; right: 0px; width: 207px; height: 207px;">
 > <br>
 > 
 > ### 洺音 Gaiman_Paynes

@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-06T06:25:51.436Z
+date: 2024-09-06T07:24:07.465Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -58,16 +58,6 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > <br>
 > - 懂一点数字IC，会画一点PCB的彩笔。
 > - 喜欢搞oc，画画，是一只米努特矮脚大黑猫（纯色）。
-
-## 合作组织
-<div>
-  	 <img src="https://s2.loli.net/2024/09/03/OKjLbtHPG7me32r.jpg" alt="华南理工大学微电子协会" style="position: absolute; top: 1480px; right: 105px; width: 75px; height: 75px;">
-     <img src="https://s2.loli.net/2024/09/03/OfmnDNJQiqHajgr.jpg" alt="华南农业大学创芯社" style="position: absolute; top: 1480px; right: 20px; width: 75px; height: 75px;">
-</div>
-
-//华南理工大学微电子协会
-//华南农业大学创芯社
-//名片生成，待完善
 
 ## 其他
 本平台基于Wiki.js引擎搭建，服务器支持由物语云计算提供，域名解析支持由阿里云提供，Wiki.js主题由Kaspa WIKI开源项目提供，白熊对其进行了一些改进。采用的图标源来自FontAwesome 5。

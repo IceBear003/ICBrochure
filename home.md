@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2024-09-06T07:55:51.612Z
+date: 2025-04-10T06:48:37.890Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -52,12 +52,12 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > <img src="https://s2.loli.net/2024/09/03/zxBRC9dnIPTswZh.jpg" alt="洺音" style="position: absolute; top: 0; right: 0px; width: 207px; height: 207px;">
 > <br>
 > 
-> ### 洺音 Gaiman_Paynes
+> ### 洺音 
 > 
 > <i class="fab fa-qq fa-sm"></i> **QQ** 469480405 &emsp; &emsp; &emsp; <i class="fab fa-weixin fa-sm"></i> **微信** \_ming_yin_
 > <br>
 > - 懂一点数字IC，会画一点PCB的彩笔。
-> - 喜欢搞oc，画画，是一只米努特矮脚大黑猫（纯色）。
+> - 喜欢搞oc，画画。
 
 ## 其他
 本平台基于Wiki.js引擎搭建，服务器支持由物语云计算提供，域名解析支持由阿里云提供，Wiki.js主题由Kaspa WIKI开源项目提供，白熊对其进行了一些改进。采用的图标库为FontAwesome 5。

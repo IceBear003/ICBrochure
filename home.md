@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2025-04-10T06:48:37.890Z
+date: 2025-04-10T06:54:02.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-21T06:28:48.439Z
@@ -56,7 +56,7 @@ ICBrochure**渴求**来自任何个人、组织的任何贡献，贡献主要分
 > 
 > <i class="fab fa-qq fa-sm"></i> **QQ** 469480405 &emsp; &emsp; &emsp; <i class="fab fa-weixin fa-sm"></i> **微信** \_ming_yin_
 > <br>
-> - 懂一点数字IC，会画一点PCB的彩笔。
+> - 懂一点数字IC，会画一点PCB。
 > - 喜欢搞oc，画画。
 
 ## 其他

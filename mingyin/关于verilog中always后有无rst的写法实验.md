@@ -2,7 +2,7 @@
 title: 关于verilog中always后有无rst的写法实验
 description: 此文是关于网上非常常见的always @(posedge clk or posedge rst)这种写法的实验研究
 published: true
-date: 2025-04-12T16:00:53.540Z
+date: 2025-04-12T16:03:35.392Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T16:00:53.539Z
@@ -55,7 +55,7 @@ dateCreated: 2025-04-12T16:00:53.539Z
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/Ei3kNr2WRlYQXt5.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/Ei3kNr2WRlYQXt5.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 &emsp; &emsp;\*补充一下几种基本结构的名字：
@@ -79,7 +79,7 @@ dateCreated: 2025-04-12T16:00:53.539Z
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/CzEkrXp4VWR829s.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/CzEkrXp4VWR829s.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 &emsp; &emsp;观察引脚可知，在同步结构中rst分别引入作为S或者R引脚。异步结构中则被命名为PRE（预写入）和CLR（清除）。从功能性上看起来区别不大，但是从结构上应该是有区别的。
@@ -91,7 +91,7 @@ dateCreated: 2025-04-12T16:00:53.539Z
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/SsvFGclCe4U3V9y.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/SsvFGclCe4U3V9y.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:60%;"/>
 </div>
 
 &emsp; &emsp;通过R和S可以完成置1置0和不变三种操作，但是显而易见，这样的结构没有时钟参与，不是一个很好的时序结构。
@@ -99,14 +99,14 @@ dateCreated: 2025-04-12T16:00:53.539Z
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/aoTjQqnvSCpsy2k.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/aoTjQqnvSCpsy2k.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:60%;"/>
 </div>
 
 &emsp; &emsp;作为存储器，我们显然希望在每个时钟的时候直接将里面的值变更为新的值，因此我们对其进行一点基本的改动得到D触发器，到这一步就是FPGA中每一个触发器的基本结构了
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/BFwN7SKtbrxv8uY.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/BFwN7SKtbrxv8uY.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:60%;"/>
 </div>
 
 
@@ -114,14 +114,14 @@ dateCreated: 2025-04-12T16:00:53.539Z
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/h8dWBilEr7ApxNf.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/h8dWBilEr7ApxNf.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:60%;"/>
 </div>
 
 &emsp; &emsp;显然我们也可以在输出的地方直接加上rst判断，这样就形成了与clk完全无关的rst控制，即异步复位/置位触发器，对应always @(posedge clk_ibuf or posedge rst) 这种情况
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/Nvrqw6xzcRpP9tn.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/Nvrqw6xzcRpP9tn.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:60%;"/>
 </div>
 
 ## 基本区别
@@ -142,7 +142,7 @@ end
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/JlYvcjbkaCzPrMS.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:100%;"/>
+<img src="https://s2.loli.net/2025/04/12/JlYvcjbkaCzPrMS.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:70%;"/>
 </div>
 
 &emsp; &emsp;直到这里，我们清楚了VIVADO对这两种写法的综合逻辑，但是上述的例子资源占用量都相同，对实际代码编写影响不大，那么接下来来测试一些有影响的情况。
@@ -172,7 +172,7 @@ end
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/68vBN7eCwmDoWTG.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:200%;"/>
+<img src="https://s2.loli.net/2025/04/12/68vBN7eCwmDoWTG.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 &emsp; &emsp;继续测试让rst信号和en信号都作为置位信号的情况
@@ -194,7 +194,7 @@ end
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/K2cx1abGgenhPA8.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:200%;"/>
+<img src="https://s2.loli.net/2025/04/12/K2cx1abGgenhPA8.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 &emsp; &emsp;当把en信号也写到时序信号里的时候异步系统才会把en和rst绑定起来
@@ -207,7 +207,7 @@ end
 ```
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/S8khzRs3F6gqwXt.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:200%;"/>
+<img src="https://s2.loli.net/2025/04/12/S8khzRs3F6gqwXt.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 ## 进阶区别
@@ -229,7 +229,7 @@ end
 
 <br>
 <div style="text-align: center;">
-<img src="https://s2.loli.net/2025/04/12/tTcbPhZqOX8vsVF.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:200%;"/>
+<img src="https://s2.loli.net/2025/04/12/tTcbPhZqOX8vsVF.png" alt="fb0bc72f1a588f15fb65ba2528d4061b" style="zoom:80%;"/>
 </div>
 
 &emsp; &emsp;由于异步的触发器需要将rst从输出端接入，这段代码中根据en的值rst信号既要能够置一又要能够置零，显然没有办法在触发器内部生成LUT电路，所以只能生成两个异步触发器，一个是置零一个是置一，然后分别用两个LUT2生成置零和置一信号输送给CLR和PRE，再生成一个Latch接收两个LUT2的结果来判断采用哪个输出值，最后将三个信号通过LUT3选择后输出，过程可谓是相当的复杂。

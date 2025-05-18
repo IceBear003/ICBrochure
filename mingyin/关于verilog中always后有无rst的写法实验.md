@@ -2,7 +2,7 @@
 title: 关于verilog中always后有无rst的写法实验
 description: 此文是关于网上非常常见的always @(posedge clk or posedge rst)这种写法的实验研究
 published: true
-date: 2025-04-12T16:03:35.392Z
+date: 2025-05-18T17:51:48.507Z
 tags: 
 editor: markdown
 dateCreated: 2025-04-12T16:00:53.539Z
@@ -17,6 +17,9 @@ dateCreated: 2025-04-12T16:00:53.539Z
 > <br>
 > - 懂一点数字IC，会画一点PCB。
 > - 喜欢搞oc，画画。
+
+## 批注
+2025.5.19 白熊：ASIC中还是得用异步触发，具体原因稍后补充。
 
 ## 引言
 
